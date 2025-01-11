@@ -8,9 +8,8 @@ body {
   font-weight: 800;
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
-  font-weight: 800;
 }
 
 .para {
@@ -23,13 +22,16 @@ body {
   font-weight: bold;
 } 
 
+.cancel {
+  background-color: white;
+  color: black;
+}
+
 .button {
-  background-color: rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
-.child {
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
